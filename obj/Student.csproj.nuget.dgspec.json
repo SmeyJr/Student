@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Student\\Student.csproj": {}
+    "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Git\\Student\\Student.csproj": {}
   },
   "projects": {
-    "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Student\\Student.csproj": {
+    "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Git\\Student\\Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Student\\Student.csproj",
+        "projectUniqueName": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Git\\Student\\Student.csproj",
         "projectName": "Student",
-        "projectPath": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Student\\Student.csproj",
+        "projectPath": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Git\\Student\\Student.csproj",
         "packagesPath": "C:\\Users\\monir\\.nuget\\packages\\",
-        "outputPath": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Student\\obj\\",
+        "outputPath": "D:\\4-Raksmey\\5-Training\\1-DevOps-I\\project\\Git\\Student\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
